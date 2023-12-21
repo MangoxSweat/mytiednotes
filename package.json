@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
-		"start": "vite",
+		"start": "bun run -- svelte-kit start",
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",

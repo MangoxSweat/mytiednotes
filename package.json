@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
-		"start": "vite",
+		"start": "node build",
 		"dev": "vite dev",
 		"build": "rollup --config",
 		"preview": "vite preview",

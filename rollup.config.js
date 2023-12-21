@@ -1,5 +1,5 @@
 import svelte from 'rollup-plugin-svelte'; 
 
 export default {
-  input: 'src/index.html', 
+  input: 'src/app.html', 
 };
